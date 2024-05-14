@@ -1,0 +1,66 @@
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.exe
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.deps.json
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.runtimeconfig.json
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.dll
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.pdb
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login_Gestion.Form1.resources
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.csproj.GenerateResource.cache
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.AssemblyInfoInputs.cache
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.AssemblyInfo.cs
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.csproj.CoreCompileInputs.cache
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.dll
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\refint\Login Gestion.dll
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.pdb
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.genruntimeconfig.cache
+D:\Utu 2024\Gestion de proyecto\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\ref\Login Gestion.dll
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.exe
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.deps.json
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.runtimeconfig.json
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.dll
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.pdb
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login_Gestion.Form1.resources
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.csproj.GenerateResource.cache
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.AssemblyInfoInputs.cache
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.AssemblyInfo.cs
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.csproj.CoreCompileInputs.cache
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.dll
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\refint\Login Gestion.dll
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.pdb
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.genruntimeconfig.cache
+C:\Users\FedeG\OneDrive\Escritorio\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\ref\Login Gestion.dll
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.exe
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.deps.json
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.runtimeconfig.json
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.dll
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.pdb
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login_Gestion.Form1.resources
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login_Gestion.Form2.resources
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.csproj.GenerateResource.cache
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.AssemblyInfoInputs.cache
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.AssemblyInfo.cs
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.csproj.CoreCompileInputs.cache
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.dll
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\refint\Login Gestion.dll
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.pdb
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.genruntimeconfig.cache
+C:\Users\rivero\Desktop\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\ref\Login Gestion.dll
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login_Gestion.Form1.resources
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login_Gestion.Form2.resources
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.dll
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\refint\Login Gestion.dll
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.pdb
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.exe
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.deps.json
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.runtimeconfig.json
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.dll
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\bin\Debug\net8.0-windows\Login Gestion.pdb
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\Login Gestion.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Login Gestion\Login Gestion\Login Gestion\obj\Debug\net8.0-windows\ref\Login Gestion.dll
